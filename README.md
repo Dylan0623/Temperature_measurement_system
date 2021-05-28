@@ -1,0 +1,2 @@
+# Temperature_measurement_system
+基于51单片机和DS18B20的温度测量系统，并通过蓝牙将温度传送到上位机
